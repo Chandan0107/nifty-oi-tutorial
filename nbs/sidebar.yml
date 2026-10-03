@@ -1,0 +1,9 @@
+website:
+  sidebar:
+    contents:
+      - 00_index.ipynb
+      - 01_dataload.ipynb
+      - 02_interferometry_response.ipynb
+      - 03_sky_models.ipynb
+      - 04_nufft_check.ipynb
+      - 05_bayesian_reconstruction.ipynb

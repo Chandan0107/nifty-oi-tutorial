@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nifty-oi-tutorial"
+  site-url: "https://chandan0107.github.io/nifty-oi-tutorial"
+  description: "Tutorial: Bayesian image reconstruction for optical interferometry with NIFTy"
+  repo-branch: main
+  repo-url: "https://github.com/Chandan0107/nifty-oi-tutorial"
